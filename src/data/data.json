@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Mario's Birhtday",
+      "details": "Mario first appeared as the player character of Donkey Kong (1981), a platform game. Miyamoto wanted to use Popeye as the protagonist, but when he could not achieve the licensing rights, he created Mario instead. Miyamoto expected the character to be unpopular and planned to use him for cameo appearances; originally called \"Mr. Video\", he was renamed to Mario after Mario Segale. Mario's clothing and characteristics were themed after the setting of Donkey Kong. He then began to star in the Super Mario series of platform games, beginning with the critically acclaimed Super Mario Bros. in 1985. Since 1992, Mario has been voiced by Charles Martinet.",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Anniversary",
+      "details": "Celebrating wedding anniversaries as gold or silver is documented in Germanic countries since the 1500s. In the twentieth century, commercialism led to the celebration of more anniversaries according to a list of predetermined gifts.",
+      "category": "money",
+      "id": 5
+    }
+  ]
+}
